@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Marcos.
-- 📚 Graduado em Administração na UNISUAN, Técnico em Administração(SENAC) e Atualmente Cursando Técnico em Informática na ESTÁCIO!
+- 📚 Graduado em Administração na (UNISUAN), Técnico em Administração(SENAC) e Atualmente Cursando Técnico em Informática na (ESTÁCIO)!
 
 <!---
 MviniciusN21/MviniciusN21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
